@@ -1,0 +1,32 @@
+_repo: The-Giants-From-Outer-Space_32485
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32485-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Krepps, Robert W.
+    aliases:
+    - Krepps, Robert Wilson
+    - Reynard, Geoffrey St.
+    - St. Reynard, Geoff
+    - Reynard, Geoff St.
+    birthdate: 1919
+    deathdate: 1980
+    gutenberg_agent_id: '35674'
+    url: http://www.gutenberg.org/2009/agents/35674
+description: ''
+gutenberg_issued: '2010-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Giants From Outer Space
+url: http://www.gutenberg.org/ebooks/32485
