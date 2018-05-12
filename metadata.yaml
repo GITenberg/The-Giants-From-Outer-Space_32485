@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '35674'
     url: http://www.gutenberg.org/2009/agents/35674
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32485#The-Giants-From-Outer-Space
 gutenberg_issued: '2010-05-23'
 gutenberg_type: Text
 identifiers:
